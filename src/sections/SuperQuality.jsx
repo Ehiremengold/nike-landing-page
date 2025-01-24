@@ -3,7 +3,7 @@ import { shoe8 } from "../assets/images";
 
 const SuperQuality = () => {
   return (
-    <div className="max-container flex flex-col-reverse lg:flex-row items-center max-xl:px-5 lg:justify-between gap-9">
+    <div id="about-us" className="max-container flex flex-col-reverse lg:flex-row items-center max-xl:px-5 lg:justify-between gap-9">
       <div className="lg:w-2/5 place-items-center lg:place-items-start">
         <h1 className="font-bold lg:text-[50px] text-[30px] max-lg:leading-none">
           We Provide You <span className="text-coral-red">Super Quality</span>{" "}

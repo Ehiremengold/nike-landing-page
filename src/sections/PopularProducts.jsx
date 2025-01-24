@@ -3,7 +3,7 @@ import { products } from "../constants";
 
 const PopularProducts = () => {
   return (
-    <div className="max-container flex flex-col items-center lg:items-start max-xl:px-5">
+    <div  id="products" className="max-container flex flex-col items-center lg:items-start max-xl:px-5">
       <h1 className="leading-none font-palanquin font-bold text-[52px] max-sm:text-[35px]">
         Our <span className="text-coral-red font-montserrat">Popular </span>
         Products
