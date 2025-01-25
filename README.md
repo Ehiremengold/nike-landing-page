@@ -2,7 +2,8 @@
 
 This project is a sleek and responsive landing page designed for showcasing Nike's products and services. It features visually stunning animations, engaging sections, and a modern design optimized for all devices.
 
-![Nike Landing Page](./src/assets/your-image-name.png)
+![Nike Hero](./src/assets/hero.png)
+![Nike Landing Page](./src/assets/full-website.png)
 
 ---
 
